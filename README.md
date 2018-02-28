@@ -5,6 +5,8 @@
 スクリプトへのアクセスは　GameJam_SolarCar/Assets/Scripts/　よりお願いいたします。また、ゲームシーンのメインとなるスクリプトは  
 GameManager.cs  
 Solarcar_Control.cs  
-SpotLightControl.cs  
-となっておりますので、お急ぎの場合はそちらをご覧ください。  
-よろしくお願い致します。
+SpotLightControl.cs  
+
+となっておりますので、お急ぎの場合はそちらをご覧ください。  
+よろしくお願い致します。  
+
